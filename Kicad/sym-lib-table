@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "piano555-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/piano555-eagle-import.kicad_sym")(options "")(descr ""))
+)

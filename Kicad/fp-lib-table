@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "piano555")(type "KiCad")(uri "$(KIPRJMOD)/piano555.pretty")(options "")(descr ""))
+)
