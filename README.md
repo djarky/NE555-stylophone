@@ -5,5 +5,5 @@ PCB board made in Eagle
 
 ![2](https://github.com/djarky/NE555-stylophone/blob/main/images/IMG_20250519_120355.jpg)
 
-![3](https://github.com/djarky/NE555-stylophone/blob/main/images/render4.png)
+![3](https://github.com/djarky/NE555-stylophone/blob/main/images/render5.png)
 
